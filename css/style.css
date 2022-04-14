@@ -1,0 +1,38 @@
+/* body {
+  text-align: center;
+  margin: 0 auto;
+} */
+
+/* .img__inner{
+  max-width: 600px;
+  margin: 0 auto;
+} */
+
+.question {
+  margin: 30px 0 30px;
+}
+
+.now {
+  margin: 40px 0 40px;
+}
+
+.select{
+  margin: 10px 0 30px;
+}
+/* 
+.what_time{
+  margin: 10px 0 30px;
+
+} */
+
+.img {
+  display: block;
+  height: 200px;
+  width: 200px;
+  margin: 0 0 10px;
+}
+
+.right_station {
+  margin: 10px 0 10px;
+  padding: 0 0 0 60px;
+}
